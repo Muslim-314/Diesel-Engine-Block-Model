@@ -5,4 +5,4 @@ The repo contains the 3D model of the diesel engine block along with the tutoria
 ## Multiviews and Dimension
 ![](images/Dimension.png)
 ## 3D Model
-![](images/3D plot.png)
+![](images/3D-plot.png)
